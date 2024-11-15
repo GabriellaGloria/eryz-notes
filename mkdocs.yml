@@ -1,5 +1,6 @@
-site_name: My Docs
-site_url: https://mydomain.org/mysite
+site_name: eryz's notes
+site_url: https://gabriellagloria.github.io/eryz-notes
+use_directory_urls: false
 theme:
   name: material
   features:
@@ -20,16 +21,28 @@ theme:
     - content.code.copy
   palette: 
     # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
+    # - scheme: default
+    #   toggle:
+    #     icon: material/brightness-7 
+    #     name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - scheme: slate
+    # # Palette toggle for dark mode
+    # - scheme: slate
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: Switch to light mode
+    - scheme: default
+      primary: deep purple
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/weather-sunny
         name: Switch to light mode
+  logo: src/Kirby_Nintendo.png
+  favicon: src/Kirby_Nintendo.png
+
 plugins:
   - search
   - blog
@@ -37,7 +50,7 @@ plugins:
       tags_file: tags.md
 
 nav:
-  - Home: index.md
+  # - Home: index.md
   - About: 
     - About me: about/about.md
     - Idk: about/idk.md
@@ -47,6 +60,9 @@ nav:
   - Codes:
     - Cpp: codes/cpp_is_love.md
 
+repo_url: https://github.com/GabriellaGloria/eryz-notes
+repo_name: GabriellaGloria/eryz-notes
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -55,3 +71,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+# extra:
+#   favicon: src/favicon.webp
+# extra_css:
+#   - src/favicon.css
+
