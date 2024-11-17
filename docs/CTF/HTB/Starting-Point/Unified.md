@@ -26,8 +26,11 @@ nmap <TARGET_IP> -p 8443 -sC
 
 This tells us that port 8443 is running Unifi Network
 
-When we visit **https://<TARGET_IP>:8443**, we will see this login page
-![alt text](image-6.png)
+When we visit **https://TARGET_IP:8443**, we will see this login page
+<div style="text-align: center;">
+    <img src="image-6.png" alt="alt text" width="500">
+</div>
+<!-- ![alt text](image-6.png) -->
 
 If we look for the vulnerabilities of this unifi version, we will find this [CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2021-44228) related to Log4j2, called Log4Shell.
 
@@ -93,7 +96,9 @@ script /dev/null -c bash
 **/dev/null** is to ensure that the logs is not saved (PTY without logging). 
 **-c bash** to start bash shell in the pseudo terminal.
 
-![alt text](image-9.png)
+<div style="text-align: center;">
+    <img src="image-9.png" alt="alt text" width="500">
+</div>
 Here is our user.txt!
 
 
@@ -120,10 +125,14 @@ It shows that mongodb runs on the port 27117.
 
 Unifi Network default database name is ace.
 We will connect to the database and run some commands as shown.
-![alt text](image-11.png)
+<div style="text-align: center;">
+    <img src="image-11.png" alt="alt text" width="500">
+</div>
 
 We can enumerate the users, and find admin (the output is quite long so i grep it in here).
-![alt text](image-14.png)
+<div style="text-align: center;">
+    <img src="image-14.png" alt="alt text" width="500">
+</div>
 
 The password is in x_shadow and sha-512 (from the ```$6$``` prepended), and we cant crack it. So instead, we will just change it directly to our password.
 ![alt text](image-13.png)
@@ -140,4 +149,6 @@ Now, if we try to login again, using ```adminstrator``` and our password (```ery
 And SSH login is enabled to root, using ```NotACrackablePassword4U2022```
 
 Here is our flag :D
-![alt text](image-17.png)
+<div style="text-align: center;">
+    <img src="image-17.png" alt="alt text" width="500">
+</div>
