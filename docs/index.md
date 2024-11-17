@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+---
+date: 2024-11-17
+categories:
+    - Documentation
+---
+# Hi there 👋!
+I am Gabriella Gloria, an Indonesian undergraduate at NUS 🎓. I am majoring in Computer Science 💻, currently a Y2 student :D! I am still exploring many CS fields and hope to learn more throughout uni.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+My interest (currently) lies in Cybersecurity, but I did a bit of Competitive Programming back then (C++ best language I agree 😗🔛🔝). Oh, I also like chocolates 🍫 and sushi 🍣.
 
-## Commands
+## eryz-notes 🙇‍♀️
+This page is just for me to document things and also my progress, so in the next few years, I can look back & see how stupid and cringe I was. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Idk how you found this page, but thanks for visiting, hope you enjoyed it 🫶!!
 
-## Project layout
+## Socials 🙌
+Feel free to connect with me :D
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `Github` - [GabriellaGloria](https://github.com/GabriellaGloria)
+* `Email` - <a href="mailto:gabriella@u.nus.edu">gabriella@u.nus.edu</a>
+
+

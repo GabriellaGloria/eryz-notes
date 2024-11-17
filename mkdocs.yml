@@ -50,7 +50,7 @@ plugins:
       tags_file: tags.md
 
 nav:
-  # - Home: index.md
+  - Home: index.md
   - About: 
     - About me: about/about.md
     # - Idk: about/idk.md
