@@ -59,6 +59,16 @@ nav:
     - blog/posts/hello-world.md
   # - Codes:
   #   - Cpp: codes/cpp_is_love.md
+  - NUS :
+    - CS1010: NUS/CS101.md
+    - CS1231S: NUS/CS1231S.md
+    - CS2030S: NUS/CS2030S.md
+    - CS2040S: NUS/CS2040S.md
+    - CS2100: NUS/CS2100.md
+    - CS2105: NUS/CS2105.md
+    - CS2106: NUS/CS2106.md
+    - CS2107: NUS/CS2107.md
+    - CS2109S: NUS/CS2109S.md
   - CTF :
     - HTB:
       - Vaccine: CTF/HTB/Starting-Point/Vaccine.md
