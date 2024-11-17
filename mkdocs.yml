@@ -73,6 +73,7 @@ nav:
     - HTB:
       - Vaccine: CTF/HTB/Starting-Point/Vaccine.md
       - Unified: CTF/HTB/Starting-Point/Unified.md
+      - Included: CTF/HTB/Starting-Point/Included.md
 
 repo_url: https://github.com/GabriellaGloria/eryz-notes
 repo_name: GabriellaGloria/eryz-notes
