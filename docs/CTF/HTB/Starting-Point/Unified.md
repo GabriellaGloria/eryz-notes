@@ -101,15 +101,12 @@ To see the running processes, we can use the **ps** command
 *The ps command in Linux is a powerful tool that allows you to view information about the processes running on your Linux system. It stands for “process status” and it's a command that you can use from the command line to get information about the currently running processes.*
 
 When we use *ps aux*, we notice that target uses mongo database.
-<details> <summary><strong>Understanding ps aux</strong></summary>
-ps: Stands for "process status." It is a command used to display information about active processes in the system.
-
-a: This option tells ps to show processes for all users, not just the current user. By default, without this flag, ps only shows processes running under the current user’s session.
-
-u: This option tells ps to display user-oriented output. This includes the username of the process owner, CPU usage, memory usage, start time, etc.
-
-x: This option tells ps to show processes that are not attached to a terminal. These could include background processes, system services, or daemons.
-
+<details> 
+  <summary><strong>Understanding ps aux</strong></summary>
+  <p><strong>ps:</strong> Stands for "process status." It is a command used to display information about active processes in the system.</p>
+  <p><strong>a:</strong> This option tells ps to show processes for all users, not just the current user. By default, without this flag, ps only shows processes running under the current user’s session.</p>
+  <p><strong>u:</strong> This option tells ps to display user-oriented output. This includes the username of the process owner, CPU usage, memory usage, start time, etc.</p>
+  <p><strong>x:</strong> This option tells ps to show processes that are not attached to a terminal. These could include background processes, system services, or daemons.</p>
 </details>
 
 ```

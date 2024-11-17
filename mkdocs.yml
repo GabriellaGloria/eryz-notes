@@ -60,9 +60,9 @@ nav:
   # - Codes:
   #   - Cpp: codes/cpp_is_love.md
   - CTF :
-    - HTB :
-      - Vaccine: CTF/HTB/Vaccine.md
-      - Unified: CTF/HTB/Unified.md
+    - HTB:
+      - Vaccine: CTF/HTB/Starting-Point/Vaccine.md
+      - Unified: CTF/HTB/Starting-Point/Unified.md
 
 repo_url: https://github.com/GabriellaGloria/eryz-notes
 repo_name: GabriellaGloria/eryz-notes
