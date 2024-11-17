@@ -53,12 +53,16 @@ nav:
   # - Home: index.md
   - About: 
     - About me: about/about.md
-    - Idk: about/idk.md
+    # - Idk: about/idk.md
   - Tags: tags.md
   - Blog:
     - blog/posts/hello-world.md
-  - Codes:
-    - Cpp: codes/cpp_is_love.md
+  # - Codes:
+  #   - Cpp: codes/cpp_is_love.md
+  - CTF :
+    - HTB :
+      - Vaccine: CTF/HTB/Vaccine.md
+      - Unified: CTF/HTB/Unified.md
 
 repo_url: https://github.com/GabriellaGloria/eryz-notes
 repo_name: GabriellaGloria/eryz-notes
