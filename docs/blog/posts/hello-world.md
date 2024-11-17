@@ -3,7 +3,7 @@ date: 2024-11-15
 categories:
     - Documentation
 tags:
-    - Mkdocs
+    - Random
 ---
 
 # My first blog i guess
