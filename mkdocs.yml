@@ -1,6 +1,7 @@
 site_name: eryz's notes
 site_url: https://gabriellagloria.github.io/eryz-notes
 use_directory_urls: false
+
 theme:
   name: material
   features:
@@ -20,17 +21,6 @@ theme:
     - search.share
     - content.code.copy
   palette: 
-    # Palette toggle for light mode
-    # - scheme: default
-    #   toggle:
-    #     icon: material/brightness-7 
-    #     name: Switch to dark mode
-
-    # # Palette toggle for dark mode
-    # - scheme: slate
-    #   toggle:
-    #     icon: material/brightness-4
-    #     name: Switch to light mode
     - scheme: default
       primary: deep purple
       toggle:
@@ -52,28 +42,36 @@ plugins:
 nav:
   - Home: index.md
   - About: 
-    - About me: about/about.md
-    # - Idk: about/idk.md
+      - About me: about/about.md
   - Tags: tags.md
   - Blog:
-    - blog/posts/hello-world.md
-  # - Codes:
-  #   - Cpp: codes/cpp_is_love.md
-  - NUS :
-    - CS1010: NUS/CS101.md
-    - CS1231S: NUS/CS1231S.md
-    - CS2030S: NUS/CS2030S.md
-    - CS2040S: NUS/CS2040S.md
-    - CS2100: NUS/CS2100.md
-    - CS2105: NUS/CS2105.md
-    - CS2106: NUS/CS2106.md
-    - CS2107: NUS/CS2107.md
-    - CS2109S: NUS/CS2109S.md
-  - CTF :
-    - HTB:
-      - Vaccine: CTF/HTB/Starting-Point/Vaccine.md
-      - Unified: CTF/HTB/Starting-Point/Unified.md
-      - Included: CTF/HTB/Starting-Point/Included.md
+      - blog/posts/hello.md
+  - Notes:
+      - Buffer Overflow and Format String: notes/posts/buffer.md
+      - Combinatorics and Theorems: notes/posts/combin.md
+      - Common Series: notes/posts/series.md
+      - Recurrence Relations: notes/posts/recurrence.md
+
+  - NUS:
+      - Mods: NUS/mods.md
+      - CS1010: NUS/CS1010.md
+      - CS1231S: NUS/CS1231S.md
+      - CS2030S: NUS/CS2030S.md
+      - CS2040S: NUS/CS2040S.md
+      - CS2100: NUS/CS2100.md
+      - CS2105: NUS/CS2105.md
+      - CS2106: NUS/CS2106.md
+      - CS2107: NUS/CS2107.md
+      - CS2109S: NUS/CS2109S.md
+  - CTF:
+      - HTB:
+          - Starting-Point:
+              - Vaccine: CTF/HTB/Starting-Point/Vaccine.md
+              - Unified: CTF/HTB/Starting-Point/Unified.md
+              - Included: CTF/HTB/Starting-Point/Included.md
+          - Machines:
+              - Support: CTF/HTB/Machines/Support.md
+              - Broker: CTF/HTB/Machines/Broker.md
 
 repo_url: https://github.com/GabriellaGloria/eryz-notes
 repo_name: GabriellaGloria/eryz-notes
@@ -86,9 +84,17 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.arithmatex
+  - toc:
+      permalink: true
 
-# extra:
-#   favicon: src/favicon.webp
-# extra_css:
-#   - src/favicon.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.8/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.8/contrib/auto-render.min.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js
+  # - js/reload.js
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.8/katex.min.css
 

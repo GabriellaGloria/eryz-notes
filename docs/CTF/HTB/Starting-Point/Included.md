@@ -120,7 +120,7 @@ Here is our user flag.
 
 Using `id` command, we can see that mike belongs to lxd group. Through google search, we can find about [lxd exploitations](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/interesting-groups-linux-pe/lxd-privilege-escalation) and turns out we can escalate privileges to root (without any sudo rights/passwords). 
 
-Here, I will follow the [HackTricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/interesting-groups-linux-pe/lxd-privilege-escalation) page **Method 2**. (I tried using method 1 first, but the build-lxd isnt supported anymore, then I git checkout to get the previous distrobuilder, but failed again since my architecture `arm64` not supported, I gave up method 2 since it also takes me so long to download qemu & docker to emulate amd64)
+Here, I will follow the [HackTricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/interesting-groups-linux-pe/lxd-privilege-escalation) page **Method 2**. (I tried using method 1 first, but the build-lxd isnt supported anymore, then I git checkout to get the previous distrobuilder, but failed again since my architecture `arm64` not supported, I gave up method 1 since it also takes me so long to download qemu & docker to emulate amd64)
 
 **Method 1 fail compilation :**
 <div style="text-align: center;">

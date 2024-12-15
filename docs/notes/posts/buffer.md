@@ -6,6 +6,4 @@ tags:
     - Random
 ---
 
-# My first blog i guess
-hi there
-
+# Buffer Overflow & Format String Vulnerabilities 🍡

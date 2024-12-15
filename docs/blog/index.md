@@ -1,3 +1,2 @@
-# Blogs
+# Blog
 
-Will share my thoughts here
