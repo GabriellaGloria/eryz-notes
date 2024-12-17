@@ -4,6 +4,8 @@ categories:
     - Documentation
 tags:
     - Hack The Box
+    - Easy
+    - Linux
 ---
 
 # Broker Writeup
