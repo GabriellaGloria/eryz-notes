@@ -50,7 +50,7 @@ nav:
   - Blog:
       - Highschool: blog/posts/Highschool.md
       - Uni: blog/posts/Uni.md
-      - CP: blog/posts/CP.md
+      # - CP: blog/posts/CP.md
   - Notes:
       - Buffer Overflow and Format String: notes/posts/buffer.md
       - Combinatorics and Theorems: notes/posts/combin.md

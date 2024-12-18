@@ -14,7 +14,7 @@ I attended [Rajawali Catholic High School](https://smarajawalimakassar.sch.id/sc
 
 Education in SMA is more academic, preparing students for university, while SMK focuses on practical skills for immediate employment. National exams were traditionally used for graduation and university entrance, though recent reforms emphasize broader assessments.
 
-Here are pictures of me and my friends 🐣!
+Here are some random pictures I have during highschool 🐣!
 
 <div class="gallery">
   <a href="14.JPG" class="lightbox">
@@ -29,8 +29,8 @@ Here are pictures of me and my friends 🐣!
     <a href="24.JPG" class="lightbox">
     <img src="24.JPG" alt="Photo 2">
   </a>
-    <a href="61.JPG" class="lightbox">
-    <img src="61.JPG" alt="Photo 2">
+    <a href="61.jpg" class="lightbox">
+    <img src="61.jpg" alt="Photo 2">
   </a>
   <a href="30.JPG" class="lightbox">
     <img src="30.JPG" alt="Photo 2">
@@ -47,10 +47,10 @@ Here are pictures of me and my friends 🐣!
       <a href="85.JPG" class="lightbox">
     <img src="85.JPG" alt="Photo 2">
   </a>
-  <a href="47.JPG" class="lightbox">
-    <img src="47.JPG" alt="Photo 2">
+  <a href="47.jpg" class="lightbox">
+    <img src="47.jpg" alt="Photo 2">
   </a>
-      <a href="18.JPG" class="lightbox">
+  <a href="18.JPG" class="lightbox">
     <img src="18.JPG" alt="Photo 3">
   </a>
   <a href="0.JPG" class="lightbox">
@@ -65,7 +65,7 @@ Here are pictures of me and my friends 🐣!
     <a href="4.JPG" class="lightbox">
     <img src="4.JPG" alt="Photo 3">
   </a>
-    <a href="5.JPG" class="lightbox">
+  <a href="5.JPG" class="lightbox">
     <img src="5.JPG" alt="Photo 3">
   </a>
     <a href="6.JPG" class="lightbox">
@@ -102,11 +102,11 @@ Here are pictures of me and my friends 🐣!
     <a href="89.jpg" class="lightbox">
     <img src="89.jpg" alt="Photo 3">
   </a>
-    <a href="91.jpg" class="lightbox">
-    <img src="91.jpg" alt="Photo 3">
+    <a href="91.JPG" class="lightbox">
+    <img src="91.JPG" alt="Photo 3">
   </a>
-    <a href="92.jpg" class="lightbox">
-    <img src="92.jpg" alt="Photo 3">
+    <a href="92.JPG" class="lightbox">
+    <img src="92.JPG" alt="Photo 3">
   </a>
     <a href="90.jpg" class="lightbox">
     <img src="90.jpg" alt="Photo 3">
@@ -116,8 +116,8 @@ Here are pictures of me and my friends 🐣!
     <img src="15.JPG" alt="Photo 3">
   </a>
   </a>
-    <a href="17.JPG" class="lightbox">
-    <img src="17.JPG" alt="Photo 3">
+    <a href="17.jpg" class="lightbox">
+    <img src="17.jpg" alt="Photo 3">
   </a>
   <a href="1.JPG" class="lightbox">
     <img src="1.JPG" alt="Photo 2">
@@ -125,8 +125,8 @@ Here are pictures of me and my friends 🐣!
     <a href="94.JPG" class="lightbox">
     <img src="94.JPG" alt="Photo 2">
   </a>
-    <a href="95.JPG" class="lightbox">
-    <img src="95.JPG" alt="Photo 2">
+    <a href="95.jpg" class="lightbox">
+    <img src="95.jpg" alt="Photo 2">
   </a>
   <a href="19.JPG" class="lightbox">
     <img src="19.JPG" alt="Photo 2">
@@ -143,8 +143,8 @@ Here are pictures of me and my friends 🐣!
   <a href="25.JPG" class="lightbox">
     <img src="25.JPG" alt="Photo 2">
   </a>
-  <a href="28.JPG" class="lightbox">
-    <img src="28.JPG" alt="Photo 2">
+  <a href="28.jpg" class="lightbox">
+    <img src="28.jpg" alt="Photo 2">
   </a>
   <a href="31.JPG" class="lightbox">
     <img src="31.JPG" alt="Photo 2">
@@ -155,76 +155,76 @@ Here are pictures of me and my friends 🐣!
   <a href="34.JPG" class="lightbox">
     <img src="35.JPG" alt="Photo 2">
   </a>
-  <a href="38.JPG" class="lightbox">
-    <img src="38.JPG" alt="Photo 2">
+  <a href="38.jpg" class="lightbox">
+    <img src="38.jpg" alt="Photo 2">
   </a>
-  <a href="39.JPG" class="lightbox">
-    <img src="39.JPG" alt="Photo 2">
+  <a href="39.jpg" class="lightbox">
+    <img src="39.jpg" alt="Photo 2">
   </a>
-  <a href="40.JPG" class="lightbox">
-    <img src="40.JPG" alt="Photo 2">
+  <a href="40.jpg" class="lightbox">
+    <img src="40.jpg" alt="Photo 2">
   </a>
-  <a href="41.JPG" class="lightbox">
-    <img src="41.JPG" alt="Photo 2">
+  <a href="41.jpg" class="lightbox">
+    <img src="41.jpg" alt="Photo 2">
   </a>
       <a href="97.JPG" class="lightbox">
     <img src="97.JPG" alt="Photo 2">
   </a>
-  <a href="44.JPG" class="lightbox">
-    <img src="44.JPG" alt="Photo 2">
+  <a href="44.jpg" class="lightbox">
+    <img src="44.jpg" alt="Photo 2">
   </a>
   <a href="45.PNG" class="lightbox">
     <img src="45.PNG" alt="Photo 2">
   </a>
-  <a href="46.pn" class="lightbox">
-    <img src="46.JPG" alt="Photo 2">
+  <a href="46.jpg" class="lightbox">
+    <img src="46.jpg" alt="Photo 2">
   </a>
-  <a href="49.JPG" class="lightbox">
-    <img src="49.JPG" alt="Photo 2">
+  <a href="49.jpg" class="lightbox">
+    <img src="49.jpg" alt="Photo 2">
   </a>
-  <a href="51.JPG" class="lightbox">
-    <img src="51.JPG" alt="Photo 2">
+  <a href="51.jpg" class="lightbox">
+    <img src="51.jpg" alt="Photo 2">
   </a>
-  <a href="52.JPG" class="lightbox">
-    <img src="52.JPG" alt="Photo 2">
+  <a href="52.jpg" class="lightbox">
+    <img src="52.jpg" alt="Photo 2">
   </a>
-  <a href="53.JPG" class="lightbox">
-    <img src="53.JPG" alt="Photo 2">
+  <a href="53.jpg" class="lightbox">
+    <img src="53.jpg" alt="Photo 2">
   </a>
-  <a href="54.JPG" class="lightbox">
-    <img src="54.JPG" alt="Photo 2">
+  <a href="54.jpg" class="lightbox">
+    <img src="54.jpg" alt="Photo 2">
   </a>
-  <a href="56.JPG" class="lightbox">
-    <img src="56.JPG" alt="Photo 2">
+  <a href="56.jpg" class="lightbox">
+    <img src="56.jpg" alt="Photo 2">
   </a>
-  <a href="57.JPG" class="lightbox">
-    <img src="57.JPG" alt="Photo 2">
+  <a href="57.jpg" class="lightbox">
+    <img src="57.jpg" alt="Photo 2">
   </a>
-  <a href="58.JPG" class="lightbox">
-    <img src="58.JPG" alt="Photo 2">
+  <a href="58.jpg" class="lightbox">
+    <img src="58.jpg" alt="Photo 2">
   </a>
-  <a href="59.JPG" class="lightbox">
-    <img src="59.JPG" alt="Photo 2">
+  <a href="59.jpg" class="lightbox">
+    <img src="59.jpg" alt="Photo 2">
   </a>
-  <a href="60.JPG" class="lightbox">
-    <img src="60.JPG" alt="Photo 2">
-  </a>
-  </a>
-    <a href="62.JPG" class="lightbox">
-    <img src="62.JPG" alt="Photo 2">
-  </a>
-    <a href="96.JPG" class="lightbox">
-    <img src="96.JPG" alt="Photo 2">
-  </a>
-    <a href="65.JPG" class="lightbox">
-    <img src="65.JPG" alt="Photo 2">
-  </a>
-  <a href="43.JPG" class="lightbox">
-    <img src="43.JPG" alt="Photo 2">
+  <a href="60.jpg" class="lightbox">
+    <img src="60.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="64.JPG" class="lightbox">
-    <img src="64.JPG" alt="Photo 2">
+    <a href="62.jpg" class="lightbox">
+    <img src="62.jpg" alt="Photo 2">
+  </a>
+    <a href="96.jpg" class="lightbox">
+    <img src="96.jpg" alt="Photo 2">
+  </a>
+    <a href="65.jpg" class="lightbox">
+    <img src="65.jpg" alt="Photo 2">
+  </a>
+  <a href="43.jpg" class="lightbox">
+    <img src="43.jpg" alt="Photo 2">
+  </a>
+  </a>
+    <a href="64.jpg" class="lightbox">
+    <img src="64.jpg" alt="Photo 2">
   </a>
   </a>
     <a href="66.JPG" class="lightbox">
@@ -238,59 +238,162 @@ Here are pictures of me and my friends 🐣!
     <a href="68.JPG" class="lightbox">
     <img src="68.JPG" alt="Photo 2">
   </a>
+
   </a>
     <a href="69.JPG" class="lightbox">
     <img src="69.JPG" alt="Photo 2">
   </a>
-    <a href="71.JPG" class="lightbox">
-    <img src="71.JPG" alt="Photo 2">
+    <a href="71.jpg" class="lightbox">
+    <img src="71.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="73.JPG" class="lightbox">
-    <img src="73.JPG" alt="Photo 2">
+    <a href="73.jpg" class="lightbox">
+    <img src="73.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="74.JPG" class="lightbox">
-    <img src="74.JPG" alt="Photo 2">
+    <a href="74.jpg" class="lightbox">
+    <img src="74.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="75.JPG" class="lightbox">
-    <img src="75.JPG" alt="Photo 2">
+    <a href="75.jpg" class="lightbox">
+    <img src="75.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="76.JPG" class="lightbox">
-    <img src="76.JPG" alt="Photo 2">
+    <a href="76.jpg" class="lightbox">
+    <img src="76.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="77.JPG" class="lightbox">
-    <img src="77.JPG" alt="Photo 2">
+    <a href="77.jpg" class="lightbox">
+    <img src="77.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="78.JPG" class="lightbox">
-    <img src="78.JPG" alt="Photo 2">
+    <a href="78.jpg" class="lightbox">
+    <img src="78.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="79.JPG" class="lightbox">
-    <img src="79.JPG" alt="Photo 2">
+    <a href="79.jpg" class="lightbox">
+    <img src="79.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="80.JPG" class="lightbox">
-    <img src="80.JPG" alt="Photo 2">
+    <a href="80.jpg" class="lightbox">
+    <img src="80.jpg" alt="Photo 2">
   </a>
   <a href="84.png" class="lightbox">
     <img src="84.png" alt="Photo 2">
   </a>
+      <a href="98.jpg" class="lightbox">
+    <img src="98.jpg" alt="Photo 3">
   </a>
-    <a href="81.JPG" class="lightbox">
-    <img src="81.JPG" alt="Photo 2">
+      <a href="99.jpg" class="lightbox">
+    <img src="99.jpg" alt="Photo 3">
+  </a>
+      <a href="100.jpg" class="lightbox">
+    <img src="100.jpg" alt="Photo 3">
+  </a>
+      <a href="101.jpg" class="lightbox">
+    <img src="101.jpg" alt="Photo 3">
+  </a>
+      <a href="102.jpg" class="lightbox">
+    <img src="102.jpg" alt="Photo 3">
+  </a>
+  <a href="103.jpg" class="lightbox">
+    <img src="103.jpg" alt="Photo 3">
+  </a>
+      <a href="104.jpg" class="lightbox">
+    <img src="104.jpg" alt="Photo 3">
+  </a>
+      <a href="105.jpg" class="lightbox">
+    <img src="105.jpg" alt="Photo 3">
+  </a>
+      <a href="106.jpg" class="lightbox">
+    <img src="106.jpg" alt="Photo 3">
+  </a>
+      <a href="110.jpg" class="lightbox">
+    <img src="110.jpg" alt="Photo 3">
+  </a>
+      <a href="111.jpg" class="lightbox">
+    <img src="111.jpg" alt="Photo 3">
+  </a>
+      <a href="112.jpg" class="lightbox">
+    <img src="112.jpg" alt="Photo 3">
+  </a>
+      <a href="113.jpg" class="lightbox">
+    <img src="113.jpg" alt="Photo 3">
+  </a>
+      <a href="120.jpg" class="lightbox">
+    <img src="120.jpg" alt="Photo 3">
+  </a>
+      <a href="115.jpg" class="lightbox">
+    <img src="115.jpg" alt="Photo 3">
+  </a>
+      <a href="116.jpg" class="lightbox">
+    <img src="116.jpg" alt="Photo 3">
+  </a>
+      <a href="117.jpg" class="lightbox">
+    <img src="117.jpg" alt="Photo 3">
+  </a>
+      <a href="109.jpg" class="lightbox">
+    <img src="109.jpg" alt="Photo 3">
+  </a>
+      <a href="118.jpg" class="lightbox">
+    <img src="118.jpg" alt="Photo 3">
+  </a>
+      <a href="119.jpg" class="lightbox">
+    <img src="119.jpg" alt="Photo 3">
+  </a>
+      <a href="114.jpg" class="lightbox">
+    <img src="114.jpg" alt="Photo 3">
+  </a>
+      <a href="120.jpg" class="lightbox">
+    <img src="120.jpg" alt="Photo 3">
+  </a>
+      <a href="121.jpg" class="lightbox">
+    <img src="121.jpg" alt="Photo 3">
+  </a>
+      <a href="122.jpg" class="lightbox">
+    <img src="122.jpg" alt="Photo 3">
+  </a>
+      <a href="123.jpg" class="lightbox">
+    <img src="123.jpg" alt="Photo 3">
+  </a>
+      <a href="124.jpg" class="lightbox">
+    <img src="124.jpg" alt="Photo 3">
+  </a>
+      <a href="125.jpg" class="lightbox">
+    <img src="125.jpg" alt="Photo 3">
+  </a>
+      <a href="126.jpg" class="lightbox">
+    <img src="126.jpg" alt="Photo 3">
+  </a>
+      <a href="127.jpg" class="lightbox">
+    <img src="127.jpg" alt="Photo 3">
+  </a>
+      <a href="128.jpg" class="lightbox">
+    <img src="128.jpg" alt="Photo 3">
+  </a>
+  <a href="129.jpg" class="lightbox">
+    <img src="129.jpg" alt="Photo 3">
+  </a>
+      <a href="130.jpg" class="lightbox">
+    <img src="130.jpg" alt="Photo 3">
+  </a>
+      <a href="131.jpg" class="lightbox">
+    <img src="131.jpg" alt="Photo 3">
+  </a>
+      <a href="107.jpg" class="lightbox">
+    <img src="107.jpg" alt="Photo 3">
   </a>
   </a>
-    <a href="82.JPG" class="lightbox">
-    <img src="82.JPG" alt="Photo 2">
+    <a href="81.jpg" class="lightbox">
+    <img src="81.jpg" alt="Photo 2">
   </a>
   </a>
-    <a href="83.JPG" class="lightbox">
-    <img src="83.JPG" alt="Photo 2">
+    <a href="82.jpg" class="lightbox">
+    <img src="82.jpg" alt="Photo 2">
+  </a>
+  </a>
+    <a href="83.jpg" class="lightbox">
+    <img src="83.jpg" alt="Photo 2">
   </a>
     <a href="20.JPG" class="lightbox">
     <img src="20.JPG" alt="Photo 2">
@@ -307,23 +410,23 @@ Here are pictures of me and my friends 🐣!
   <a href="33.JPG" class="lightbox">
     <img src="33.JPG" alt="Photo 2">
   </a>
-  <a href="55.JPG" class="lightbox">
-    <img src="55.JPG" alt="Photo 2">
+  <a href="55.jpg" class="lightbox">
+    <img src="55.jpg" alt="Photo 2">
   </a>
-  <a href="48.JPG" class="lightbox">
-    <img src="48.JPG" alt="Photo 2">
+  <a href="48.jpg" class="lightbox">
+    <img src="48.jpg" alt="Photo 2">
   </a>
-  <a href="63.JPG" class="lightbox">
-    <img src="63.JPG" alt="Photo 2">
+  <a href="63.jpg" class="lightbox">
+    <img src="63.jpg" alt="Photo 2">
   </a>
-    <a href="70.JPG" class="lightbox">
-    <img src="70.JPG" alt="Photo 2">
+    <a href="70.jpg" class="lightbox">
+    <img src="70.jpg" alt="Photo 2">
   </a>
       <a href="93.JPG" class="lightbox">
     <img src="93.JPG" alt="Photo 2">
   </a>
-    <a href="72.JPG" class="lightbox">
-    <img src="72.JPG" alt="Photo 2">
+    <a href="72.jpg" class="lightbox">
+    <img src="72.jpg" alt="Photo 2">
   </a>
 </div>
 
