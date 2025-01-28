@@ -15,7 +15,8 @@ Here are lists of mods I have taught as TA in each semesters 💪
 
 ## Mods I've taken 🤟
 Here are lists of mods I have taken in each semesters 💪
-### AY23/24 Semester 1
+
+### AY23/24 Semester 1 🙇
 
 | Module Code | Module Name                            |
 | ----------- | -------------------------------------- |
@@ -27,7 +28,7 @@ Here are lists of mods I have taken in each semesters 💪
 | MA1511      | Engineering Calculus                   |
 | MA1512      | Differential Equations For Engineering |
 
-### AY23/24 Semester 2
+### AY23/24 Semester 2 🤗
 
 | Module Code | Module Name                          |
 | ----------- | ------------------------------------ |
@@ -40,7 +41,7 @@ Here are lists of mods I have taken in each semesters 💪
 | MA1522      | Linear Algebra for Computing         |
 | ST2334      | Probability and Statistics           |
 
-### AY24/25 Semester 1
+### AY24/25 Semester 1 😗
 
 | Module Code | Module Name                             |
 | ----------- | --------------------------------------- |
@@ -50,3 +51,14 @@ Here are lists of mods I have taken in each semesters 💪
 | CS2109S     | Introduction to AI and Machine Learning |
 | CS2030S     | Programming Methodology II              |
 | GEC1015     | Public Health in Action                 |
+
+### AY24/25 Semester 2 🥴
+
+| Module Code | Module Name                                  |
+| ----------- | -------------------------------------------- |
+| CS2103T     | Software Engineering                         |
+| CS2101      | Effective Communication for Computing Professionals |
+| CS3211      | Parallel and Concurrent Programming          |
+| CS3233      | Competitive Programming                      |
+| CS3235      | Computer Security                            |
+| GESS1025    | Singapore: Imagining the Next 50 Years       |
